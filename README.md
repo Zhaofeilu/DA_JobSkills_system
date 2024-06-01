@@ -2,6 +2,7 @@
 Project Description: Design and develop a movie rating system where users can rate movies, leave reviews, and follow other users to see their ratings and reviews. The system will include user authentication, movie information, rating and review functionalities, and the ability to follow other users. The backend will be supported by a MySQL database.
 
 Possible Features and Functionalities:
+
 1-User Authentication and Management:
 User Registration: Users can create an account with a username, email, and password.
 Login/Logout: Users can log in to access their dashboard and log out when done.
