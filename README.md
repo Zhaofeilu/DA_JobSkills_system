@@ -1,7 +1,8 @@
 _This project is an interactive rating system that uses MySQL as its database. The system helps users evaluate how well their skills match specific job positions. Users can input their skills and select a job position, and then the system calculates their skill compatibility based on predefined data and algorithms. It also recommends related skills. This project allows users to better understand their fit for target job positions, identify skill gaps, and receive tailored advice for skill improvement. This can help users make smarter career planning and job search decisions, ultimately increasing their chances of job success._
 
- 
+dataset from kaggle: https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024?resource
 
+ 
 **Homepage with Job List:**
 
 -Users can see a list of job positions on the homepage and select those relevant to them.
